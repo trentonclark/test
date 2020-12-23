@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5057-F25D
+
+ Directory of C:\Users\Trenton\Desktop\MyProject
+
+12/22/2020  09:13 PM    <DIR>          .
+12/22/2020  09:13 PM    <DIR>          ..
+12/22/2020  09:13 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  27,249,209,344 bytes free
